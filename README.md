@@ -1,2 +1,1 @@
-# Rogue
-Rogue
+# Roguelike Dungeon Explorer in Python
