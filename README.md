@@ -1,4 +1,25 @@
-# Roguelike Dungeon Explorer in Python
+# Roguelike Dungeon Explorer
 
-Based on http://rogueliketutorials.com/tutorials/tcod/v2/
+
 Experimenting with it.
+ 
+ ## Story
+ 
+ ## Gameplay
+ 
+ ## Features
+ 
+ ## Development
+ 
+ Using tcod library/Python
+ 
+ ## Screenshots
+ 
+ ## Future improvements
+ - [ ] GUI (Graphical User Interface) for the game
+ - [ ] Random Events
+ - [ ] Text to speech engine 
+ - [ ] Visual Animations
+
+#### Reference
+Based on http://rogueliketutorials.com/tutorials/tcod/v2/
